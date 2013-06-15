@@ -1,0 +1,2 @@
+Insert 10240 Lines to SQL need time : 15613(ms)
+Insert 10240 Lines to SQL need time : 15243(ms)

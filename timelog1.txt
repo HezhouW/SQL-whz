@@ -1,0 +1,8 @@
+以10为单位，单线程输入10000行：Insert SQL need time : 59286(ms)
+以100为单位单线程Insert 10000 Lines to SQL need time : 5611(ms)
+以1000为单位单线程Insert 10000 Lines to SQL need time : 1027(ms)
+以100为单位单线程Insert 102400 Lines to SQL need time : 67377(ms)
+以1000为单位单线程Insert 102400 Lines to SQL need time : 10201(ms)
+
+以100为单位10个多线程Insert 102400 Lines to SQL need time : 16200(ms)
+
